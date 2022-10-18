@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins';
+}
+.container {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+/* header style ehelj bna  */
+ header {
+    display: flex;
+    justify-content: space-between;
+ }
+ .headerNav {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+ }
+
+.headerNav ul {
+    display: flex;
+    width: 70%;
+    justify-content: space-between; 
+    list-style: none;
+    color: #394149;
+}
+a {
+    text-decoration: none;
+
+}
+.section_one {
+    background-color: #DCEAF5;
+}
+
+
+
+
+/* section 2 ehelj bna */
+
+.leftSide {
+   width: 50%;
+}
+
+.rightSide {
+    width: 50%;
+    width: 747px;
+    height: 816;
+}
+.section_one {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.section_two {
+    display: flex;
+    
+    
+}
+
+.section_two p {
+    width: 1280px;
+    display: flex;
+
+    
+}
+
+
+
+.title {
+    width: 60%;
+}
+
+.card_1  {
+    width: 399px;
+}
+.card_2  {
+    width: 399px;
+}
+.card_3  {
+    width: 399px;
+}
+.learn_orange {
+    color: #F58A07;
+    
+}
+h1 {
+    
+    
+   
+}
+
+
+
