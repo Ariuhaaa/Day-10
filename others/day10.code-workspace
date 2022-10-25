@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../food menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "food menu"
+	}
+}

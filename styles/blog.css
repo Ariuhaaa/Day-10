@@ -1,0 +1,86 @@
+.date {
+    display: flex;
+    justify-content: space-evenly;
+    width: 430px;
+    color: #394149;
+    align-items: center;
+    margin-bottom: 0px;
+}
+.date img {
+    width: 32px;
+    height: 32px;
+}
+.tennis {
+    background-color:#DCEAF5; 
+    height: 749px;
+    padding-top: 100px;
+}
+.blog_leftside p {
+    width: 559px ;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+}
+.date p{
+    font-size: 14px;
+    font-weight: 500;
+}
+.blog_leftside .orange_arrow {
+    color: #F58A07;
+    font-weight: 500;
+    font-size: 16px;
+}
+.orange_arrow::after {
+    content: '\2192';
+    color: #F58A07;
+    margin-left: 10px;
+}
+.blog_right img {
+    border-radius: 20px;
+}
+.blog {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blog_leftside {
+    width: 50%;
+    margin-top: 50px;
+}
+.card_1 {
+    background: rgba(237, 247, 255, 1);
+    border-radius: 20px;
+}
+.card_2 {
+    background: rgba(237, 247, 255, 1);
+    border-radius: 20px;
+}
+.card_3 {
+    background: rgba(237, 247, 255, 1);
+    border-radius: 20px;
+}
+.card_1:hover {
+    background-color: grey;
+    opacity: 0.5;
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.card_2:hover {
+    background-color: grey;
+    opacity: 0.5;
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.card_3:hover {
+    background-color: grey;
+    opacity: 0.5;
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    transition: 0.3s;
+}

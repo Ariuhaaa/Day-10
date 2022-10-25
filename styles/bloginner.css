@@ -1,0 +1,44 @@
+.study {
+    margin-top: 80px;
+    border-radius: 20px;
+}
+.container_mini {
+    width: 100%;
+    max-width: 752px;
+    margin: auto;
+}
+.date {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    align-items: center;
+}
+.date img {
+    width: 32px;
+    height: 32px;
+}
+h1 {
+    width: 100%;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    color: #1D3444;
+}
+h3 {
+    width: 100%; 
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    color: #0D1317;
+}
+.texts p {
+    margin-top: 10px;
+    color: #5B5B5B;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px
+} 
+.all_text {
+    margin-bottom: 100px;
+}

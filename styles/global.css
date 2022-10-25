@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    color: #394149;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+ }
+ .headerNav {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+ }
+.headerNav ul {
+    display: flex;
+    width: 70%;
+    justify-content: space-between; 
+    list-style: none;
+    font-weight: 600;
+}
+.headerNav button {
+    border-radius: 31px;
+    background: rgba(245, 138, 7, 0.1);
+    color: #F58A07;
+    border-color: none;
+    width: 173px;
+    height: 52px;
+    border:none;
+    width: 20%;
+    font-weight: 600;
+}
+footer {
+    background-color:#063255 ;
+    height: 463px;
+    color: white;
+    padding-top: 50px;
+    position: relative;
+}
+footer h2 {
+    color: white;
+    width: 351px;
+    font-size: 36px;
+    line-height: 44px;
+}
+.footer_main {
+    display: flex;
+    justify-content: space-between;
+}
+.footer_bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+footer input {
+    width: 342px;
+    height: 54px;
+    border-radius: 31px ;
+    border: none;
+    margin-bottom: 20px;
+}
+.footer_bot p {
+    display: flex;
+    justify-content: space-between;
+}
+.footer_bot  {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+li {
+    list-style: none;
+}
+.bold {
+    font-weight: 600;
+}
+.button {
+    background-color:#F58A07;
+    border-radius:31px ; 
+    color: white;
+    width: 156px;
+    height: 54px;
+    border: none;
+}
+:placeholder-shown {
+    padding-left: 50px;
+}
+.social li img {
+    display: flex;
+    justify-content: space-between;
+}
+.join {
+    width: 350px;
+}
+.orange_mini {
+    width: 53px;
+    height: 144px;
+    background-color:#F58A07;
+    position: absolute;
+    left:0;
+    bottom: 0;
+    border-radius: 0px 15px 0px 0px;
+}
+.orange_big {
+    width: 53px;
+    height: 287px;
+    background-color:#F58A07;
+    position: absolute;
+    right:0;
+    margin-top: 0;
+    border-radius: 15px 0px 0px 15px;
+} 
+.social {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,68 @@
+.back_blue {
+    background: rgba(193, 228, 255, 0.3);
+    border-radius:20px ;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    width: 1280px;
+    height: 441px;
+}
+.orange_text {
+    color: #F58A07;
+}
+.job {
+    display: flex;
+    justify-content: space-between
+}
+.job1 {
+    width: 50%;
+}
+.job2 {
+    width: 25%;
+}
+.leftside {
+    width: 25%;
+    margin-left: 68px;
+}
+.rightside {
+    width: 100%;
+    max-width: 960px;
+}
+.rightside p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #5B5B5B;
+    padding-right: 50px;
+}
+.apply {
+    background-color: rgba(210, 218, 237, 0.17);
+    border: none;
+    border-radius: 27px;
+    width: 628px ;
+    height: 54px;
+    margin: auto;
+}
+.big_input {
+    width: 1260px;
+    height: 215px;
+    background-color: rgba(210, 218, 237, 0.17);
+    border: none;
+    border-radius: 27px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bottom_input {
+    margin-top: 20px;
+}
+.orange_btn {
+    margin-bottom: 30px;
+}
+.footer_h2 {
+    color: white;
+    width: 400px;
+    font-size: 36px;
+    line-height: 44px;
+    padding-left: 0;
+    margin-bottom: 80px;
+}

@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+ }
+ .headerNav {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+ }
+.headerNav ul {
+    display: flex;
+    width: 70%;
+    justify-content: space-between; 
+    list-style: none;
+}
+.headerNav button {
+    border-radius: 31px;
+    background: rgba(245, 138, 7, 0.1);
+    color: #F58A07;
+    border-color: none;
+    width: 173px;
+    height: 52px;
+    border:none;
+    width: 20%;
+    font-weight: 600;
+}
+.headerNav ul li a {
+    font-weight: 600;
+    font-size: 16px;
+    color: #1D3444;
+}

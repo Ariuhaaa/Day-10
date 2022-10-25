@@ -1,0 +1,138 @@
+
+/* break ehelj bna */
+.watching {
+    display: flex;
+    justify-content: space-between;
+}
+h1 {
+    width: 618px;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #1D3444;
+}
+.wtch_left p {
+    width: 510px;
+    color: #5B5B5B;
+    font-weight: 500;
+    font-size: 18px;
+}
+button {
+    width: 171px;
+    height: 54px;
+    background: #F58A07;
+    border-radius: 27px;
+    border: none;
+    color: white;
+}
+.wtch_right img {
+    width: 616px;
+    height: 650px;
+    border-radius: 15px;
+}
+.wtch_left {
+    margin-top:100px;
+}
+.wtch_right {
+    position: relative;
+    height: 650px;
+}
+.wtch_blend {
+    background-color:#F58A07 ;
+    mix-blend-mode: multiply;
+    width: 180px;
+    height: 650px;
+    position: absolute;
+    left:0px;
+    top:0px;
+    border-radius: 15px 0 0 15px;
+}
+.section_eight {
+    background-color: #DCEAF5;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+.small_h1 {
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+}
+.latest {
+   background-color: white;
+   border-radius: 20px;
+   position: relative;
+   height: 470px;
+}
+.latest_text p {
+  width: 350px;
+  padding-left: 20px;
+}
+.latest_text h3 {
+    width: 330px;
+    padding-left: 20px;
+}
+.latest_text img {
+    width: 100px;
+}
+h1 {
+    color: #0D1317;
+}
+.positions {
+    width: 400px;
+    height: 181px;
+    background: rgba(193, 228, 255, 0.3);
+    border-radius: 20px;
+    margin: 10px;
+    margin-bottom: 40px;   
+}
+.position_5 {
+    width: 1280px;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+h2 {
+    width: 300px;
+    height: 30px;
+    font-weight:600;
+    font-size: 24px;
+    line-height: 30px;
+    color: #0D1317;
+    padding-left:50px;
+}
+.apply {
+width: 150px;
+font-weight: 400;
+font-size: 18px;
+color: #F58A07;
+padding-left:50px;
+}
+.time {
+    width: 250px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+}
+.footer_h2 {
+    color: white;
+    width: 400px;
+    font-size: 36px;
+    line-height: 44px;
+    padding-left: 0;
+    margin-bottom: 80px;
+}
+.cards {
+    padding-top: 50px;
+}
+.latest:hover {
+    background-color: grey;
+    opacity: 0.5;
+    width: 400px;
+    height: 480px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
